@@ -1,1 +1,0 @@
-# data-extraction-from-planet-map-and-image-classification-by-tensorflow
