@@ -24,5 +24,3 @@ conda 4.10.3, python 3.7.10
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
