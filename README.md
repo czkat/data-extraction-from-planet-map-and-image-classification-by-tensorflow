@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to data extraction from planet map and image classification by tensorflow 👋</h1>
+<h1 align="center">Welcome to data extraction from planet map and land cover classification by tensorflow 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/data extraction from planet map and image classification by tensorflow" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/data extraction from planet map and image classification by tensorflow.svg">
